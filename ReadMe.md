@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: 
 🔭 I’m currently working on Learning Python, Scratch game, HTML5, Pseint.<br>👯 I’m looking to collaborate on Creating Webpage, with HTML5 and CSSE<br>🤝 I’m looking for help with learning how to start coding with thong<br>🌱 I’m currently learning Python<br>💬 Ask me about Scratch, PowerApps, Excel, HTML5, CCS3,<br> word, CANVA, PowerPoint, VScode, Pseint<br>⚡ Fun factorially like to play free fire and FIFA.<br><br>
 
 
